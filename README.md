@@ -23,6 +23,7 @@ of Defectdojo version 2.37.3 ([https://github.com/DefectDojo/django-DefectDojo](
 
 ![image](https://github.com/user-attachments/assets/ecd30011-443d-416f-8b6c-ace9574eb449)
 ![image](https://github.com/user-attachments/assets/de133008-3be5-4c9b-a6e9-a5de03813c2d)
+![image](https://github.com/user-attachments/assets/f19713ad-d317-4e78-9c5f-2ace506e35e5)
 ![image](https://github.com/user-attachments/assets/6a152028-160c-41a5-be88-71c1b993506f)
 ![image](https://github.com/user-attachments/assets/fd9581b2-2f63-4a33-a408-3a4f4b7ffd94)
 
